@@ -1,0 +1,18 @@
+# Abandoned, not forgotten
+
+> An interactive story about the machines NASA left behind on the Moon and Mars: the ALSEP science stations, the Apollo Lunar Module descent stages and the Sojourner rover — what they were built for, what they found, and what still remains there today.
+
+## The three main machines
+
+- [ALSEP](https://YOUR-SITE.vercel.app/): Five nuclear-powered science stations deployed by Apollo 12-17 astronauts. Powered by SNAP-27 radioisotope generators, they ran moonquake, heat-flow and solar-wind experiments. NASA switched them off on 30 September 1977; they are still on the Moon.
+- [Lunar Module descent stage](https://YOUR-SITE.vercel.app/): The landing pad that became a launch pad. Apollo 12's Intrepid descent stage still sits in the Ocean of Storms at 3.01S 23.42W, beside Surveyor Crater.
+- [Sojourner](https://YOUR-SITE.vercel.app/): Mars Pathfinder's rover, built for a 7-sol mission. It worked for 83 sols and drove about 100 metres, and is still parked in Ares Vallis, now part of the Carl Sagan Memorial Station.
+
+## More left behind
+
+- On the Moon: five ALSEP stations, six Apollo Lunar Module descent stages, three Lunar Roving Vehicles, and other equipment.
+- On Mars: Viking 1 and Viking 2 landers, Spirit and Opportunity rovers, Phoenix and InSight landers, and more.
+
+## About
+
+Made for the NASA Space Apps Challenge 2026. Independent project, not affiliated with or endorsed by NASA. Map positions are approximate.
